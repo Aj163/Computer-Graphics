@@ -1,6 +1,6 @@
 /*
  * Compile with the followinng command
- * g++ moon.cpp -lglut -lGL
+ * g++ clock.cpp -lglut -lGL
  */
 
 #include <GL/freeglut.h>

@@ -1,6 +1,6 @@
 /*
  * Compile with the followinng command
- * g++ dodecagon.cpp -lglut -lGL
+ * g++ rhombus.cpp -lglut -lGL
  */
 
 #include <GL/freeglut.h>
