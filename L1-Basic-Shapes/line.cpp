@@ -34,7 +34,7 @@ int main(int argc, char **argv) {
     glutInitDisplayMode(GLUT_SINGLE);
     glutInitWindowSize(600, 400);
     glutInitWindowPosition(0, 0);
-    glutCreateWindow("Points");
+    glutCreateWindow("Line");
     glutDisplayFunc(drawPoints);
     glutMainLoop();
 }
